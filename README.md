@@ -1,5 +1,5 @@
 # MarineGenomeAssemblies
-A repo for code analyzing and marine genomes produced by DFO and the Canada Biogenome Project
+A repo for code assembling, annotation, and analyzing marine genomes produced by DFO and the Canada Biogenome Project
 
 ## Species targeted
 1. Atlantic Whitefish
