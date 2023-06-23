@@ -9,9 +9,9 @@ A repo for code assembling, annotation, and analyzing marine genomes produced by
 5. Arctic Surfclam
 6. Greenland Cockle
 7. Northern Propeller Clam
-8. Horse mussel, Modiolus modiolus
+8. [Horse mussel](https://www.marinespecies.org/aphia.php?p=taxdetails&id=140467), *Modiolus modiolus*
 9. Pacific Sea Lemon
-10. [Russian Hat Sponge](https://www.marinespecies.org/aphia.php?p=taxdetails&id=172121), Vazella pourtalesii
+10. [Russian Hat Sponge](https://www.marinespecies.org/aphia.php?p=taxdetails&id=172121), *Vazella pourtalesii*
 11. Turban Barnacle
 12. Jonah Crab
 13. Northern Stone Crab
